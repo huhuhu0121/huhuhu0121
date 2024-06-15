@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://img.shields.io/badge/amazonwebservices-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=8C4FFF"/>
 <!--
 **huhuhu0121/huhuhu0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
