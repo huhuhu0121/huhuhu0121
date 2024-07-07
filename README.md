@@ -9,7 +9,6 @@
 
 <!-- 배우는것 -->
 ## ✨ Learn ✨
-<br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -20,7 +19,6 @@
 
 <!-- 기술 스택 -->
 ## ⚙️ Tech Stack ⚙️
-<br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -33,7 +31,6 @@
 
 <!-- 경험 OS -->
 ## 💻 Operating system 💻
-<br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS">
