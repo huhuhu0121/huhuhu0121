@@ -42,3 +42,5 @@ I'm always open to new collaborations and challenges. Let's explore the world of
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" alt="CentOS">
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=250)
