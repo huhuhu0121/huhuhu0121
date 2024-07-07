@@ -39,6 +39,7 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 
 <!-- 경험 OS -->
 <summary>💻 Operating system 💻</summary>
+<br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS">
