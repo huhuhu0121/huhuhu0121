@@ -22,6 +22,8 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <!--C++-->
 </details>
 
+<details>
+<!-- 기술 스택 ... -->
 <summary>
   💻 Tech Stack 💻
 </summary>
