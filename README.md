@@ -36,7 +36,7 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <!--Python-->
 </details>
 
-<details>
+
 <!-- 경험 OS -->
 <summary>
   💻 Operating system 💻
