@@ -15,7 +15,7 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 <details>
 <!--내가 지금 배우는... -->
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Learn ... 
+  ✨ Learn ✨ 
 </summary>
 <br>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!--AWS-->
@@ -28,7 +28,7 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 </details>
 
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/fire.png" alt="Eyes" width="2%" /> Tech Stack ...
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/fire.png" alt="fire" width="2%" /> Tech Stack ...
 </summary>
 <br>
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <!--AWS-->
