@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BA9F7&random=false&width=435&lines=Welcome+to+Sihun's+Github" alt="Typing SVG" /></a>
+
 👋 Hi there! I'm Sihun, a passionate developer with a love for software development and open source projects. 
     I enjoy exploring various technologies, embracing new challenges, and finding creative solutions to problems.
 
