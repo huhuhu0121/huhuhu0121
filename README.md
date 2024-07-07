@@ -7,8 +7,6 @@
 ## Get in Touch
 - **Email:** tkgns01234@gmail.com
 
-I'm always open to new collaborations and challenges. Let's explore the world of technology together!
-
 <!-- 배우는것 -->
 ## ✨ Learn ✨
 <br>
