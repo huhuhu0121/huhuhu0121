@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white alt="kali">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white alt="mariadb">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt="php">
-  <img src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white&style=for-the-badge alt="vmware">
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white alt="vmware">
 </div>
 
                        
