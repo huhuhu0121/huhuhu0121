@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sihin's%20GitHub%20👋&animation=twinkling&fontSize=25&fontAlignY=30&fontAlign=30&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sihun's%20GitHub%20👋&animation=twinkling&fontSize=25&fontAlignY=30&fontAlign=30&height=150)
 ## About Me
 - **Education:** Major in Computer Science
 - **Experience:** Game Development, Cloud-Service, Back-end, Front-end ...
