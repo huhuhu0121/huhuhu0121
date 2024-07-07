@@ -26,7 +26,7 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 <details>
 <!-- 기술 스택 ... -->
 <summary>
-  💻 Tech Stack 💻
+  ⚙️ Tech Stack ⚙️ 
 </summary>
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> <!--MySql-->
@@ -34,4 +34,16 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <!--JAVA-->
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <!--JS-->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <!--Python-->
+</details>
+
+<details>
+<!-- 경험 OS -->
+<summary>
+  💻 Operating system 💻
+</summary>
+<br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <!--Window -->
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <!--Mac os -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!--Linux -->
+<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <!--CentOS-->
 </details>
