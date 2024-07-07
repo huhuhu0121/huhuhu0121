@@ -8,7 +8,7 @@
 - **Email:** tkgns01234@gmail.com
 
 <!-- 배우는것 -->
-## ✨ Learn ✨
+## ✨ Learning ✨
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
