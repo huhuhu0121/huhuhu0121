@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3BA9F7&random=false&width=435&lines=Welcome+to+Sihun's+Github" alt="Typing SVG" /></a>
 
 👋 Hi there! I'm Sihun, a passionate developer with a love for software development and open source projects. 
