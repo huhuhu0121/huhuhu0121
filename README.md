@@ -4,14 +4,15 @@
     I enjoy exploring various technologies, embracing new challenges, and finding creative solutions to problems.
 
 ## About Me
-- **📚 Education:** Major in Computer Science
-- **💼 Experience:** Game Development, Cloud-Service, Back-end, Front-end ...
-- **⚡ Hobbies:** Listening to music, watch movie, driving ...
+- **Education:** Major in Computer Science
+- **Experience:** Game Development, Cloud-Service, Back-end, Front-end ...
+- **Hobbies:** Listening to music, watch movie, driving ...
 
 ## Get in Touch
-- **📧 Email:** tkgns01234@gmail.com
+- **Email:** tkgns01234@gmail.com
 
 I'm always open to new collaborations and challenges. Let's explore the world of technology together!
+
 <details>
 <!--내가 지금 배우는... -->
 <summary>
