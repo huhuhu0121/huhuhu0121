@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sihin's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 👋 Hi there! I'm Sihun, a passionate developer with a love for software development and open source projects. 
-I enjoy exploring various <br> technologies, embracing new challenges, and finding creative solutions to problems.
 
 ## About Me
 - **Education:** Major in Computer Science
