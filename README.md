@@ -38,11 +38,10 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 
 
 <!-- 경험 OS -->
-<summary>
-  💻 Operating system 💻
-</summary>
-<br>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <!--Window -->
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> <!--Mac os -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!--Linux -->
-<img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"> <!--CentOS-->
+<summary>💻 Operating system 💻</summary>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" alt="CentOS">
+</div>
