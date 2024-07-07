@@ -1,5 +1,5 @@
 ## Welcome to Sihun's GitHub!👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=skyblue&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=150&section=header" />
 <div align=center>
 	
 </div>
