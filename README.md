@@ -42,6 +42,5 @@ I'm always open to new collaborations and challenges. Let's explore the world of
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" alt="CentOS">
 </div>
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+                       
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=150&section=footer)
