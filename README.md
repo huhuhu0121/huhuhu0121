@@ -10,7 +10,7 @@
 I'm always open to new collaborations and challenges. Let's explore the world of technology together!
 
 <!-- 배우는것 -->
-<summary>✨ Learn ✨</summary>
+## ✨ Learn ✨
 <br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
@@ -21,7 +21,7 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 </div>
 
 <!-- 기술 스택 -->
-<summary>⚙️ Tech Stack ⚙️</summary>
+## ⚙️ Tech Stack ⚙️
 <br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -34,7 +34,7 @@ I'm always open to new collaborations and challenges. Let's explore the world of
 </div>
 
 <!-- 경험 OS -->
-<summary>💻 Operating system 💻</summary>
+## 💻 Operating system 💻
 <br>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
