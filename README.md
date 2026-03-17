@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=Docker&logoColor=Black" alt="Docker">
 </div>
 
                        
